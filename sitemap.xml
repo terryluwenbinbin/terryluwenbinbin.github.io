@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://terryluwenbinbin.github.io/about/</loc>
+    <lastmod>2016-03-20T23:28:02+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://terryluwenbinbin.github.io/post/first/</loc>
+    <lastmod>2016-03-20T12:13:19+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://terryluwenbinbin.github.io/post/sample/product/</loc>
+    <lastmod>2016-03-20T12:13:19+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://terryluwenbinbin.github.io/post/sample/thinking/</loc>
+    <lastmod>2016-03-20T12:13:19+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://terryluwenbinbin.github.io/post/sample/tech/</loc>
+    <lastmod>2016-03-20T12:13:19+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://terryluwenbinbin.github.io/post/sample/management/</loc>
+    <lastmod>2016-03-20T12:13:19+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://terryluwenbinbin.github.io/post/hello-hugo/</loc>
+    <lastmod>2016-02-20T15:34:05+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://terryluwenbinbin.github.io/tags/bar/</loc>
+    <lastmod>2016-03-20T12:13:19+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://terryluwenbinbin.github.io/categories/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://terryluwenbinbin.github.io/tags/foo/</loc>
+    <lastmod>2016-03-20T12:13:19+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://terryluwenbinbin.github.io/post/</loc>
+    <lastmod>2016-03-20T12:13:19+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://terryluwenbinbin.github.io/tags/</loc>
+    <lastmod>2016-03-20T12:13:19+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://terryluwenbinbin.github.io/feed.xml</loc>
+    <lastmod>2016-03-20T23:28:02+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://terryluwenbinbin.github.io/tags/test/</loc>
+    <lastmod>2016-02-20T15:34:05+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://terryluwenbinbin.github.io/categories/%E4%BA%A7%E5%93%81%E6%96%87%E7%AB%A0/</loc>
+    <lastmod>2016-03-20T12:13:19+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://terryluwenbinbin.github.io/categories/%E6%80%9D%E8%80%83%E6%84%9F%E6%82%9F/</loc>
+    <lastmod>2016-03-20T12:13:19+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://terryluwenbinbin.github.io/categories/%E6%8A%80%E6%9C%AF%E6%96%87%E7%AB%A0/</loc>
+    <lastmod>2016-03-20T12:13:19+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://terryluwenbinbin.github.io/categories/%E7%AE%A1%E7%90%86%E6%96%87%E7%AB%A0/</loc>
+    <lastmod>2016-03-20T12:13:19+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+</urlset>
