@@ -6,10 +6,28 @@
     <description>Recent content in Posts on Terry Lu&#39;s Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 20 Mar 2016 12:13:19 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 12 Mar 2019 12:13:19 +0800</lastBuildDate>
     
 	<atom:link href="https://terryluwenbinbin.github.io/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>基于Hugo和GitHub 创建个人Blog</title>
+      <link>https://terryluwenbinbin.github.io/post/sample/tech/2019-03-12-hugoblog/</link>
+      <pubDate>Tue, 12 Mar 2019 12:13:19 +0800</pubDate>
+      
+      <guid>https://terryluwenbinbin.github.io/post/sample/tech/2019-03-12-hugoblog/</guid>
+      <description>概述 Hugo、Github、DNS Hugo 生产静态页 Github 宿主个人网站 DNS 域名指向 Hugo 安装、运行 主题 部署 文章编辑 Github 个人网站 Hugo 宿主 DNS 解析 DNS 域名解析 Hugo+GitHub Blog 概览 Hugo</description>
+    </item>
+    
+    <item>
+      <title>常用文档-工作</title>
+      <link>https://terryluwenbinbin.github.io/post/sample/thinking/thinking/</link>
+      <pubDate>Tue, 12 Mar 2019 12:13:19 +0800</pubDate>
+      
+      <guid>https://terryluwenbinbin.github.io/post/sample/thinking/thinking/</guid>
+      <description>Overview 技术 分类 文件名 更新日期 系统结构 XXXX-2019-系统结构-V0.1.pptx 2019.03.12 技术规范 Terry-2019-技术规范-V1.0.pptx</description>
+    </item>
     
     <item>
       <title>first</title>
@@ -26,15 +44,6 @@
       <pubDate>Sun, 20 Mar 2016 12:13:19 +0800</pubDate>
       
       <guid>https://terryluwenbinbin.github.io/post/sample/product/</guid>
-      <description>主题概况 Balalalalala&amp;hellip; Balalalalala&amp;hellip; 安装指南 aaaaaaa bbbbbbb ccccccc 安装 bold 启用 print(&#39;hello world!&#39;) 更新 Blockquotes are very handy in email to emulate reply text. This line is part of the same quote. 配置指南 Tables Are Cool col 3 is right-aligned $1600 col 2 is centered $12 zebra stripes are neat $1 属性 说明 First ordered list item</description>
-    </item>
-    
-    <item>
-      <title>基于Hugo和GitHub 创建个人Blog</title>
-      <link>https://terryluwenbinbin.github.io/post/sample/tech/2019-03-12-hugoblog/</link>
-      <pubDate>Sun, 20 Mar 2016 12:13:19 +0800</pubDate>
-      
-      <guid>https://terryluwenbinbin.github.io/post/sample/tech/2019-03-12-hugoblog/</guid>
       <description>主题概况 Balalalalala&amp;hellip; Balalalalala&amp;hellip; 安装指南 aaaaaaa bbbbbbb ccccccc 安装 bold 启用 print(&#39;hello world!&#39;) 更新 Blockquotes are very handy in email to emulate reply text. This line is part of the same quote. 配置指南 Tables Are Cool col 3 is right-aligned $1600 col 2 is centered $12 zebra stripes are neat $1 属性 说明 First ordered list item</description>
     </item>
     

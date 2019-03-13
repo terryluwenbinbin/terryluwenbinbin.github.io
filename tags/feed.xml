@@ -6,7 +6,7 @@
     <description>Recent content in Tags on Terry Lu&#39;s Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 20 Mar 2016 12:13:19 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 12 Mar 2019 12:13:19 +0800</lastBuildDate>
     
 	<atom:link href="https://terryluwenbinbin.github.io/tags/feed.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>Bar</title>
       <link>https://terryluwenbinbin.github.io/tags/bar/</link>
-      <pubDate>Sun, 20 Mar 2016 12:13:19 +0800</pubDate>
+      <pubDate>Tue, 12 Mar 2019 12:13:19 +0800</pubDate>
       
       <guid>https://terryluwenbinbin.github.io/tags/bar/</guid>
       <description></description>
@@ -23,7 +23,7 @@
     <item>
       <title>Foo</title>
       <link>https://terryluwenbinbin.github.io/tags/foo/</link>
-      <pubDate>Sun, 20 Mar 2016 12:13:19 +0800</pubDate>
+      <pubDate>Tue, 12 Mar 2019 12:13:19 +0800</pubDate>
       
       <guid>https://terryluwenbinbin.github.io/tags/foo/</guid>
       <description></description>
@@ -35,6 +35,24 @@
       <pubDate>Sat, 20 Feb 2016 15:34:05 +0800</pubDate>
       
       <guid>https://terryluwenbinbin.github.io/tags/test/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>个人</title>
+      <link>https://terryluwenbinbin.github.io/tags/%E4%B8%AA%E4%BA%BA/</link>
+      <pubDate>Tue, 12 Mar 2019 12:13:19 +0800</pubDate>
+      
+      <guid>https://terryluwenbinbin.github.io/tags/%E4%B8%AA%E4%BA%BA/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>积累</title>
+      <link>https://terryluwenbinbin.github.io/tags/%E7%A7%AF%E7%B4%AF/</link>
+      <pubDate>Tue, 12 Mar 2019 12:13:19 +0800</pubDate>
+      
+      <guid>https://terryluwenbinbin.github.io/tags/%E7%A7%AF%E7%B4%AF/</guid>
       <description></description>
     </item>
     

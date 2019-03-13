@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>个人 on Terry Lu&#39;s Site</title>
+    <link>https://terryluwenbinbin.github.io/tags/%E4%B8%AA%E4%BA%BA/</link>
+    <description>Recent content in 个人 on Terry Lu&#39;s Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Tue, 12 Mar 2019 12:13:19 +0800</lastBuildDate>
+    
+	<atom:link href="https://terryluwenbinbin.github.io/tags/%E4%B8%AA%E4%BA%BA/feed.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>常用文档-工作</title>
+      <link>https://terryluwenbinbin.github.io/post/sample/thinking/thinking/</link>
+      <pubDate>Tue, 12 Mar 2019 12:13:19 +0800</pubDate>
+      
+      <guid>https://terryluwenbinbin.github.io/post/sample/thinking/thinking/</guid>
+      <description>Overview 技术 分类 文件名 更新日期 系统结构 XXXX-2019-系统结构-V0.1.pptx 2019.03.12 技术规范 Terry-2019-技术规范-V1.0.pptx</description>
+    </item>
+    
+  </channel>
+</rss>
