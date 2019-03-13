@@ -109,7 +109,8 @@
 <li><a href="#部署">部署</a></li>
 <li><a href="#常用命令">常用命令</a>
 <ul>
-<li><a href="#运行-1">运行</a></li>
+<li><a href="#运行本地">运行本地</a></li>
+<li><a href="#生成发布">生成发布</a></li>
 </ul></li>
 </ul></li>
 <li><a href="#github-1">Github</a></li>
@@ -237,11 +238,20 @@ git clone https://github.com/Fastbyte01/KeepIt.git
 
 <h3 id="常用命令">常用命令</h3>
 
-<h4 id="运行-1">运行</h4>
+<h4 id="运行本地">运行本地</h4>
 
 <pre><code>cd D:\A002.Code\A01.Terry2019\terryluwenbinbin.github.io\terryluwenbinbin.github.io
 d:
 hugo server -w
+</code></pre>
+
+<h4 id="生成发布">生成发布</h4>
+
+<pre><code>hugo  --baseUrl=&quot;https://terryluwenbinbin.github.io/&quot;
+cd public
+git add -A
+git commit -m &quot;first commit&quot;
+git push -u origin master
 </code></pre>
 
 <h2 id="github-1">Github</h2>
