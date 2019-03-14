@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>每日 on Terry Lu&#39;s Site</title>
+    <link>https://terryluwenbinbin.github.io/tags/%E6%AF%8F%E6%97%A5/</link>
+    <description>Recent content in 每日 on Terry Lu&#39;s Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Wed, 13 Mar 2019 13:13:19 +0800</lastBuildDate>
+    
+	<atom:link href="https://terryluwenbinbin.github.io/tags/%E6%AF%8F%E6%97%A5/feed.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>待跟进</title>
+      <link>https://terryluwenbinbin.github.io/post/collect/2019-03-13-totrace/</link>
+      <pubDate>Wed, 13 Mar 2019 13:13:19 +0800</pubDate>
+      
+      <guid>https://terryluwenbinbin.github.io/post/collect/2019-03-13-totrace/</guid>
+      <description>概述 URL Everyday 概念知识 工作 名称 说明 URL _ 阿里云 阿里云 https://www.aliyun.com/ Todos 工作 名称 说明 URL _ 阿里云 阿里云 https://www.aliyun.com/</description>
+    </item>
+    
+    <item>
+      <title>网址 每日</title>
+      <link>https://terryluwenbinbin.github.io/post/collect/2019-03-13-urlday/</link>
+      <pubDate>Wed, 13 Mar 2019 12:13:19 +0800</pubDate>
+      
+      <guid>https://terryluwenbinbin.github.io/post/collect/2019-03-13-urlday/</guid>
+      <description>概述 URL Everyday List 工作 名称 说明 URL _ 阿里云 阿里云 https://www.aliyun.com/ 生活 名称 说明 URL _ 8264 户外 http://bbs.8264.com/ 学习 名称 说明 URL _ 中华会计网校 会计 http://www.chinaacc.com/ 专业&amp;amp;行业 名称 说明 URL _ 艾瑞咨询 报告</description>
+    </item>
+    
+    <item>
+      <title>阅读</title>
+      <link>https://terryluwenbinbin.github.io/post/collect/2019-03-13-books/</link>
+      <pubDate>Wed, 13 Mar 2019 12:13:19 +0800</pubDate>
+      
+      <guid>https://terryluwenbinbin.github.io/post/collect/2019-03-13-books/</guid>
+      <description>概述 Books List 专业 书名 说明 Down 参考 阅读次数 参考 说明 数据分析 书名 说明 Down 参考 阅读次数 深入浅出数据分析 数据分析 1 深入浅出统计学 数据分析 1 R语言实战 0 数据之</description>
+    </item>
+    
+  </channel>
+</rss>

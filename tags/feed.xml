@@ -6,10 +6,19 @@
     <description>Recent content in Tags on Terry Lu&#39;s Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Tue, 12 Mar 2019 12:13:19 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 13 Mar 2019 12:13:19 +0800</lastBuildDate>
     
 	<atom:link href="https://terryluwenbinbin.github.io/tags/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Android</title>
+      <link>https://terryluwenbinbin.github.io/tags/android/</link>
+      <pubDate>Wed, 13 Mar 2019 12:13:19 +0800</pubDate>
+      
+      <guid>https://terryluwenbinbin.github.io/tags/android/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Bar</title>
@@ -26,6 +35,24 @@
       <pubDate>Tue, 12 Mar 2019 12:13:19 +0800</pubDate>
       
       <guid>https://terryluwenbinbin.github.io/tags/foo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ios</title>
+      <link>https://terryluwenbinbin.github.io/tags/ios/</link>
+      <pubDate>Wed, 13 Mar 2019 12:13:19 +0800</pubDate>
+      
+      <guid>https://terryluwenbinbin.github.io/tags/ios/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pc</title>
+      <link>https://terryluwenbinbin.github.io/tags/pc/</link>
+      <pubDate>Wed, 13 Mar 2019 12:13:19 +0800</pubDate>
+      
+      <guid>https://terryluwenbinbin.github.io/tags/pc/</guid>
       <description></description>
     </item>
     
@@ -48,11 +75,56 @@
     </item>
     
     <item>
+      <title>工具</title>
+      <link>https://terryluwenbinbin.github.io/tags/%E5%B7%A5%E5%85%B7/</link>
+      <pubDate>Wed, 13 Mar 2019 12:13:19 +0800</pubDate>
+      
+      <guid>https://terryluwenbinbin.github.io/tags/%E5%B7%A5%E5%85%B7/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>收集</title>
+      <link>https://terryluwenbinbin.github.io/tags/%E6%94%B6%E9%9B%86/</link>
+      <pubDate>Wed, 13 Mar 2019 12:13:19 +0800</pubDate>
+      
+      <guid>https://terryluwenbinbin.github.io/tags/%E6%94%B6%E9%9B%86/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>每日</title>
+      <link>https://terryluwenbinbin.github.io/tags/%E6%AF%8F%E6%97%A5/</link>
+      <pubDate>Wed, 13 Mar 2019 13:13:19 +0800</pubDate>
+      
+      <guid>https://terryluwenbinbin.github.io/tags/%E6%AF%8F%E6%97%A5/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>积累</title>
       <link>https://terryluwenbinbin.github.io/tags/%E7%A7%AF%E7%B4%AF/</link>
       <pubDate>Tue, 12 Mar 2019 12:13:19 +0800</pubDate>
       
       <guid>https://terryluwenbinbin.github.io/tags/%E7%A7%AF%E7%B4%AF/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>网址</title>
+      <link>https://terryluwenbinbin.github.io/tags/%E7%BD%91%E5%9D%80/</link>
+      <pubDate>Wed, 13 Mar 2019 13:13:19 +0800</pubDate>
+      
+      <guid>https://terryluwenbinbin.github.io/tags/%E7%BD%91%E5%9D%80/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>阅读</title>
+      <link>https://terryluwenbinbin.github.io/tags/%E9%98%85%E8%AF%BB/</link>
+      <pubDate>Wed, 13 Mar 2019 12:13:19 +0800</pubDate>
+      
+      <guid>https://terryluwenbinbin.github.io/tags/%E9%98%85%E8%AF%BB/</guid>
       <description></description>
     </item>
     
