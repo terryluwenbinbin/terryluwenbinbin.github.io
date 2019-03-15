@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Linux on Terry Lu&#39;s Site</title>
+    <link>https://terryluwenbinbin.github.io/tags/linux/</link>
+    <description>Recent content in Linux on Terry Lu&#39;s Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Thu, 14 Mar 2019 12:13:19 +0800</lastBuildDate>
+    
+	<atom:link href="https://terryluwenbinbin.github.io/tags/linux/feed.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Linux 常用</title>
+      <link>https://terryluwenbinbin.github.io/post/sample/tech/2019-03-12-linux%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4/</link>
+      <pubDate>Thu, 14 Mar 2019 12:13:19 +0800</pubDate>
+      
+      <guid>https://terryluwenbinbin.github.io/post/sample/tech/2019-03-12-linux%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4/</guid>
+      <description>概述 Common cmd Unsort sudo tar -xzvf sudo tar -xzvf xxx.tar.gz nginx -V sudo find / -size +100M |xargs ls -lh</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -6,10 +6,28 @@
     <description>Recent content on Terry Lu&#39;s Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Wed, 13 Mar 2019 13:13:19 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 15 Mar 2019 09:13:19 +0800</lastBuildDate>
     
 	<atom:link href="https://terryluwenbinbin.github.io/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Https</title>
+      <link>https://terryluwenbinbin.github.io/post/sample/tech/2019-03-15-https/</link>
+      <pubDate>Fri, 15 Mar 2019 09:13:19 +0800</pubDate>
+      
+      <guid>https://terryluwenbinbin.github.io/post/sample/tech/2019-03-15-https/</guid>
+      <description>概述 Https 理论 概念 https 、Let’s Encrypt、Certbot https Let’s Encrypt Certbot 类型 原理 费用 收费 免费 使用 Https 功能 创建、更新续期（手工自动）、监控，泛</description>
+    </item>
+    
+    <item>
+      <title>Linux 常用</title>
+      <link>https://terryluwenbinbin.github.io/post/sample/tech/2019-03-12-linux%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4/</link>
+      <pubDate>Thu, 14 Mar 2019 12:13:19 +0800</pubDate>
+      
+      <guid>https://terryluwenbinbin.github.io/post/sample/tech/2019-03-12-linux%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4/</guid>
+      <description>概述 Common cmd Unsort sudo tar -xzvf sudo tar -xzvf xxx.tar.gz nginx -V sudo find / -size +100M |xargs ls -lh</description>
+    </item>
     
     <item>
       <title>待跟进</title>
@@ -44,7 +62,7 @@
       <pubDate>Wed, 13 Mar 2019 12:13:19 +0800</pubDate>
       
       <guid>https://terryluwenbinbin.github.io/post/collect/2019-03-13-toolspc/</guid>
-      <description>概述 Software for pc List 思维 名称 说明 网址 版本 版权 更新时间 备注 mindmaster 思维导图 NA NA NA 2019.03.13 NA xmind 思维导图 NA 亿图图示 思维导图 NA mindmaster 思维导图 效率工具 名称 说明 网址 版本 版权 更新</description>
+      <description>概述 Software for pc List 个人管理 名称 说明 网址 版本 版权 更新时间 备注 trello 任务管理-个 公司 名称 说明 网址 版本 版权 更新时间 备注 tapd 协作 钉钉 思维 名称 说明 网址 版本 版权 更新</description>
     </item>
     
     <item>

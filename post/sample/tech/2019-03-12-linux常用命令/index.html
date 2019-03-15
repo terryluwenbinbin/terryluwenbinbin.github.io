@@ -2,13 +2,13 @@
 <html lang="zh-CN">
 <head>
   <meta charset="UTF-8">
-  <title>about - Terry Lu&#39;s Site</title>
+  <title>Linux 常用 - Terry Lu&#39;s Site</title>
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=3, minimum-scale=1">
   
-  <meta name="description" content="关于 Hugo 主题 balabalbalbalbal&hellip;">
+  <meta name="description" content="概述 Common cmd Unsort sudo tar -xzvf sudo tar -xzvf xxx.tar.gz nginx -V sudo find / -size &#43;100M |xargs ls -lh">
   
-  <meta itemprop="name" content="about - Terry Lu&#39;s Site">
-  <meta itemprop="description" content="关于 Hugo 主题 balabalbalbalbal&hellip;">
+  <meta itemprop="name" content="Linux 常用 - Terry Lu&#39;s Site">
+  <meta itemprop="description" content="概述 Common cmd Unsort sudo tar -xzvf sudo tar -xzvf xxx.tar.gz nginx -V sudo find / -size &#43;100M |xargs ls -lh">
   <meta itemprop="image" content="https://terryluwenbinbin.github.io/img/author.jpg">
   
   
@@ -71,39 +71,80 @@
 	<article itemprop="articleBody">
     <header class="article-info clearfix">
   <h1 itemprop="name">
-      <a href="https://terryluwenbinbin.github.io/about/" title="about" itemprop="url">about</a>
+      <a href="https://terryluwenbinbin.github.io/post/sample/tech/2019-03-12-linux%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4/" title="Linux 常用" itemprop="url">Linux 常用</a>
   </h1>
   <p class="article-author">By
     
-      <a href="Home%20Page" title=""></a>
+      <a href="http://keeeepit.com/post/" title="TerryLu">TerryLu</a>
     
   </p>
   <p class="article-time">
-    <time datetime="2016-03-20 23:28:02 &#43;0800 CST" itemprop="datePublished">2016年03月20日</time>
+    <time datetime="2019-03-14 12:13:19 &#43;0800 CST" itemprop="datePublished">2019年03月14日</time>
   </p>
 </header>
 
 	<div class="article-content">
     
+		<div class="toc-article">
+			<strong class="toc-title">文章目录</strong>
+      <nav id="TableOfContents">
+<ul>
+<li>
+<ul>
+<li><a href="#概述">概述</a></li>
+<li><a href="#unsort">Unsort</a></li>
+</ul></li>
+</ul>
+</nav>
+		</div>
+    
     
 
-<h2 id="关于">关于</h2>
+<h2 id="概述">概述</h2>
 
-<h3 id="hugo">Hugo</h3>
+<p>Common cmd</p>
 
-<h3 id="主题">主题</h3>
+<h2 id="unsort">Unsort</h2>
 
-<p>balabalbalbalbal&hellip;</p>
+<pre><code>sudo tar -xzvf
+sudo tar -xzvf xxx.tar.gz
+</code></pre>
+
+<pre><code>nginx -V
+</code></pre>
+
+<pre><code>sudo find / -size +100M |xargs ls -lh
+</code></pre>
 
     
 	</div>
   <footer class="article-footer clearfix">
   
 
+<div class="article-tags">
+  <span></span>
+  
+  <a href="https://terryluwenbinbin.github.io/tags/%E6%8A%80%E6%9C%AF">技术</a>
+  
+  <a href="https://terryluwenbinbin.github.io/tags/linux">Linux</a>
+  
+</div>
+
+
+
+
+
+<div class="article-categories">
+  <span></span>
+  
+  <a class="article-category-link" href="https://terryluwenbinbin.github.io/categories/%E6%8A%80%E6%9C%AF%E6%96%87%E7%AB%A0">技术文章</a>
+  
+</div>
+
 
 
   <div class="article-share" id="share">
-    <div data-url="https://terryluwenbinbin.github.io/about/" data-title="about" data-tsina="123" class="share clearfix">
+    <div data-url="https://terryluwenbinbin.github.io/post/sample/tech/2019-03-12-linux%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4/" data-title="Linux 常用" data-tsina="123" class="share clearfix">
     </div>
   </div>
 </footer>
@@ -336,6 +377,38 @@ $(document).ready(function(){
 
 <script type="text/javascript">
 $(document).ready(function(){
+  var ai = $('.article-content>iframe'),
+      ae = $('.article-content>embed'),
+      t  = $('#toc'),
+      h  = $('article h2')
+      ah = $('article h2'),
+      ta = $('#toc.toc-aside'),
+      o  = $('.openaside'),
+      c  = $('.closeaside');
+  if(ai.length>0){
+    ai.wrap('<div class="video-container" />');
+  };
+  if(ae.length>0){
+   ae.wrap('<div class="video-container" />');
+  };
+  if(ah.length==0){
+    t.css('display','none');
+  }else{
+    c.click(function(){
+      ta.css('display', 'block').addClass('fadeIn');
+    });
+    o.click(function(){
+      ta.css('display', 'none');
+    });
+    $(window).scroll(function(){
+      ta.css("top",Math.max(140,320-$(this).scrollTop()));
+    });
+  };
+});
+</script>
+
+<script type="text/javascript">
+$(document).ready(function(){
   var $this = $('.share'),
       url = $this.attr('data-url'),
       encodedUrl = encodeURIComponent(url),
@@ -362,6 +435,27 @@ $(document).ready(function(){
 });
 </script>
 
+
+<link rel="stylesheet" href="https://terryluwenbinbin.github.io/fancybox/jquery.fancybox.css" media="screen" type="text/css">
+<script src="https://terryluwenbinbin.github.io/fancybox/jquery.fancybox.pack.js"></script>
+<script type="text/javascript">
+$(document).ready(function(){
+  $('.article-content').each(function(i){
+    $(this).find('img').each(function(){
+      if ($(this).parent().hasClass('fancybox')) return;
+      var alt = this.alt;
+      if (alt) $(this).after('<span class="caption">' + alt + '</span>');
+      $(this).wrap('<a href="' + this.src + '" title="' + alt + '" class="fancybox"></a>');
+    });
+    $(this).find('.fancybox').each(function(){
+      $(this).attr('rel', 'article' + i);
+    });
+  });
+  if($.fancybox){
+    $('.fancybox').fancybox();
+  }
+});
+</script>
 
 
 

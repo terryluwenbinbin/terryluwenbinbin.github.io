@@ -2,13 +2,13 @@
 <html lang="zh-CN">
 <head>
   <meta charset="UTF-8">
-  <title>about - Terry Lu&#39;s Site</title>
+  <title>Https - Terry Lu&#39;s Site</title>
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=3, minimum-scale=1">
   
-  <meta name="description" content="关于 Hugo 主题 balabalbalbalbal&hellip;">
+  <meta name="description" content="概述 Https 理论 概念 https 、Let’s Encrypt、Certbot https Let’s Encrypt Certbot 类型 原理 费用 收费 免费 使用 Https 功能 创建、更新续期（手工自动）、监控，泛">
   
-  <meta itemprop="name" content="about - Terry Lu&#39;s Site">
-  <meta itemprop="description" content="关于 Hugo 主题 balabalbalbalbal&hellip;">
+  <meta itemprop="name" content="Https - Terry Lu&#39;s Site">
+  <meta itemprop="description" content="概述 Https 理论 概念 https 、Let’s Encrypt、Certbot https Let’s Encrypt Certbot 类型 原理 费用 收费 免费 使用 Https 功能 创建、更新续期（手工自动）、监控，泛">
   <meta itemprop="image" content="https://terryluwenbinbin.github.io/img/author.jpg">
   
   
@@ -71,39 +71,223 @@
 	<article itemprop="articleBody">
     <header class="article-info clearfix">
   <h1 itemprop="name">
-      <a href="https://terryluwenbinbin.github.io/about/" title="about" itemprop="url">about</a>
+      <a href="https://terryluwenbinbin.github.io/post/sample/tech/2019-03-15-https/" title="Https" itemprop="url">Https</a>
   </h1>
   <p class="article-author">By
     
-      <a href="Home%20Page" title=""></a>
+      <a href="http://keeeepit.com/post/" title="TerryLu">TerryLu</a>
     
   </p>
   <p class="article-time">
-    <time datetime="2016-03-20 23:28:02 &#43;0800 CST" itemprop="datePublished">2016年03月20日</time>
+    <time datetime="2019-03-15 09:13:19 &#43;0800 CST" itemprop="datePublished">2019年03月15日</time>
   </p>
 </header>
 
 	<div class="article-content">
     
+		<div class="toc-article">
+			<strong class="toc-title">文章目录</strong>
+      <nav id="TableOfContents">
+<ul>
+<li>
+<ul>
+<li><a href="#概述">概述</a></li>
+<li><a href="#理论">理论</a>
+<ul>
+<li><a href="#概念">概念</a>
+<ul>
+<li><a href="#https">https</a></li>
+<li><a href="#let-s-encrypt">Let’s Encrypt</a></li>
+<li><a href="#certbot">Certbot</a></li>
+</ul></li>
+<li><a href="#类型">类型</a></li>
+<li><a href="#原理">原理</a></li>
+<li><a href="#费用">费用</a>
+<ul>
+<li><a href="#收费">收费</a></li>
+<li><a href="#免费">免费</a></li>
+</ul></li>
+</ul></li>
+<li><a href="#使用">使用</a>
+<ul>
+<li><a href="#功能">功能</a>
+<ul>
+<li><a href="#创建">创建</a></li>
+<li><a href="#更新">更新</a></li>
+<li><a href="#监控">监控</a>
+<ul>
+<li><a href="#免费-1">免费</a></li>
+<li><a href="#收费-1">收费</a></li>
+</ul></li>
+<li><a href="#泛域名">泛域名</a>
+<ul>
+<li><a href="#其他">其他</a></li>
+</ul></li>
+</ul></li>
+</ul></li>
+<li><a href="#资源">资源</a>
+<ul>
+<li><a href="#积累文档">积累文档</a>
+<ul>
+<li><a href="#https分布表">https分布表</a></li>
+</ul></li>
+<li><a href="#参考">参考</a></li>
+</ul></li>
+<li><a href="#qa">QA</a>
+<ul>
+<li><a href="#注意事项">注意事项</a>
+<ul>
+<li><a href="#http-https兼容">http https兼容</a></li>
+</ul></li>
+</ul></li>
+<li><a href="#todos">Todos</a></li>
+</ul></li>
+</ul>
+</nav>
+		</div>
+    
     
 
-<h2 id="关于">关于</h2>
+<h2 id="概述">概述</h2>
 
-<h3 id="hugo">Hugo</h3>
+<p>Https</p>
 
-<h3 id="主题">主题</h3>
+<h2 id="理论">理论</h2>
 
-<p>balabalbalbalbal&hellip;</p>
+<h3 id="概念">概念</h3>
+
+<p>https 、Let’s Encrypt、Certbot</p>
+
+<h4 id="https">https</h4>
+
+<h4 id="let-s-encrypt">Let’s Encrypt</h4>
+
+<h4 id="certbot">Certbot</h4>
+
+<h3 id="类型">类型</h3>
+
+<h3 id="原理">原理</h3>
+
+<h3 id="费用">费用</h3>
+
+<h4 id="收费">收费</h4>
+
+<h4 id="免费">免费</h4>
+
+<h2 id="使用">使用</h2>
+
+<p>Https</p>
+
+<h3 id="功能">功能</h3>
+
+<p>创建、更新续期（手工自动）、监控，泛域名</p>
+
+<h4 id="创建">创建</h4>
+
+<ol>
+<li>lnmp ssl</li>
+<li>Certbot</li>
+</ol>
+
+<h4 id="更新">更新</h4>
+
+<ol>
+<li><p>Certbot</p>
+
+<ol>
+<li><p>certonly</p>
+
+<pre><code>sudo /bin/certbot certonly  -d xxx.com
+</code></pre></li>
+
+<li><p>renew</p>
+
+<pre><code>sudo /bin/certbot renew
+</code></pre></li>
+</ol></li>
+
+<li><p>Nginx</p>
+
+<pre><code>sudo service nginx restart
+</code></pre>
+
+<h4 id="监控">监控</h4></li>
+</ol>
+
+<h5 id="免费-1">免费</h5>
+
+<p><a href="https://letsmonitor.org/">letsmonitor.org</a>. 注意区别staylive.</p>
+
+<h5 id="收费-1">收费</h5>
+
+<h4 id="泛域名">泛域名</h4>
+
+<p><a href="https://lnmp.org/faq/letsencrypt-wildcard-ssl.html">TBA</a></p>
+
+<h5 id="其他">其他</h5>
+
+<p>删除无效</p>
+
+<pre><code>sudo rm -r /etc/letsencrypt/live/xxx.com  &amp;&amp; sudo rm -r /etc/letsencrypt/archive/xxx.com &amp;&amp;  sudo rm -r /etc/letsencrypt/renewal/xxx.com.conf
+</code></pre>
+
+<h2 id="资源">资源</h2>
+
+<h3 id="积累文档">积累文档</h3>
+
+<h4 id="https分布表">https分布表</h4>
+
+<p>https分布表.xlsx</p>
+
+<h3 id="参考">参考</h3>
+
+<h2 id="qa">QA</h2>
+
+<h3 id="注意事项">注意事项</h3>
+
+<h4 id="http-https兼容">http https兼容</h4>
+
+<pre>
+注意API ,http/https 开关问题,外部系统保留http,
+同源策略导致出错,因为外部系统并不一定是https,
+</pre>
+
+<h2 id="todos">Todos</h2>
+
+<ul class="task-list">
+<li><label><input type="checkbox" disabled class="task-list-item"> 自动更新</label></li>
+<li><label><input type="checkbox" disabled class="task-list-item"> 泛域名</label></li>
+</ul>
 
     
 	</div>
   <footer class="article-footer clearfix">
   
 
+<div class="article-tags">
+  <span></span>
+  
+  <a href="https://terryluwenbinbin.github.io/tags/%E6%8A%80%E6%9C%AF">技术</a>
+  
+  <a href="https://terryluwenbinbin.github.io/tags/https">Https</a>
+  
+</div>
+
+
+
+
+
+<div class="article-categories">
+  <span></span>
+  
+  <a class="article-category-link" href="https://terryluwenbinbin.github.io/categories/%E6%8A%80%E6%9C%AF%E6%96%87%E7%AB%A0">技术文章</a>
+  
+</div>
+
 
 
   <div class="article-share" id="share">
-    <div data-url="https://terryluwenbinbin.github.io/about/" data-title="about" data-tsina="123" class="share clearfix">
+    <div data-url="https://terryluwenbinbin.github.io/post/sample/tech/2019-03-15-https/" data-title="Https" data-tsina="123" class="share clearfix">
     </div>
   </div>
 </footer>
@@ -336,6 +520,38 @@ $(document).ready(function(){
 
 <script type="text/javascript">
 $(document).ready(function(){
+  var ai = $('.article-content>iframe'),
+      ae = $('.article-content>embed'),
+      t  = $('#toc'),
+      h  = $('article h2')
+      ah = $('article h2'),
+      ta = $('#toc.toc-aside'),
+      o  = $('.openaside'),
+      c  = $('.closeaside');
+  if(ai.length>0){
+    ai.wrap('<div class="video-container" />');
+  };
+  if(ae.length>0){
+   ae.wrap('<div class="video-container" />');
+  };
+  if(ah.length==0){
+    t.css('display','none');
+  }else{
+    c.click(function(){
+      ta.css('display', 'block').addClass('fadeIn');
+    });
+    o.click(function(){
+      ta.css('display', 'none');
+    });
+    $(window).scroll(function(){
+      ta.css("top",Math.max(140,320-$(this).scrollTop()));
+    });
+  };
+});
+</script>
+
+<script type="text/javascript">
+$(document).ready(function(){
   var $this = $('.share'),
       url = $this.attr('data-url'),
       encodedUrl = encodeURIComponent(url),
@@ -362,6 +578,27 @@ $(document).ready(function(){
 });
 </script>
 
+
+<link rel="stylesheet" href="https://terryluwenbinbin.github.io/fancybox/jquery.fancybox.css" media="screen" type="text/css">
+<script src="https://terryluwenbinbin.github.io/fancybox/jquery.fancybox.pack.js"></script>
+<script type="text/javascript">
+$(document).ready(function(){
+  $('.article-content').each(function(i){
+    $(this).find('img').each(function(){
+      if ($(this).parent().hasClass('fancybox')) return;
+      var alt = this.alt;
+      if (alt) $(this).after('<span class="caption">' + alt + '</span>');
+      $(this).wrap('<a href="' + this.src + '" title="' + alt + '" class="fancybox"></a>');
+    });
+    $(this).find('.fancybox').each(function(){
+      $(this).attr('rel', 'article' + i);
+    });
+  });
+  if($.fancybox){
+    $('.fancybox').fancybox();
+  }
+});
+</script>
 
 
 

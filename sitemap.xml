@@ -3,6 +3,16 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://terryluwenbinbin.github.io/post/sample/tech/2019-03-15-https/</loc>
+    <lastmod>2019-03-15T09:13:19+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://terryluwenbinbin.github.io/post/sample/tech/2019-03-12-linux%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4/</loc>
+    <lastmod>2019-03-14T12:13:19+08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://terryluwenbinbin.github.io/post/collect/2019-03-13-totrace/</loc>
     <lastmod>2019-03-13T13:13:19+08:00</lastmod>
   </url>
@@ -106,8 +116,20 @@
   </url>
   
   <url>
+    <loc>https://terryluwenbinbin.github.io/tags/https/</loc>
+    <lastmod>2019-03-15T09:13:19+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://terryluwenbinbin.github.io/tags/ios/</loc>
     <lastmod>2019-03-13T12:13:19+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://terryluwenbinbin.github.io/tags/linux/</loc>
+    <lastmod>2019-03-14T12:13:19+08:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -119,7 +141,7 @@
   
   <url>
     <loc>https://terryluwenbinbin.github.io/post/</loc>
-    <lastmod>2019-03-13T13:13:19+08:00</lastmod>
+    <lastmod>2019-03-15T09:13:19+08:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -131,7 +153,7 @@
   
   <url>
     <loc>https://terryluwenbinbin.github.io/feed.xml</loc>
-    <lastmod>2019-03-13T13:13:19+08:00</lastmod>
+    <lastmod>2019-03-15T09:13:19+08:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -166,8 +188,14 @@
   </url>
   
   <url>
+    <loc>https://terryluwenbinbin.github.io/tags/%E6%8A%80%E6%9C%AF/</loc>
+    <lastmod>2019-03-15T09:13:19+08:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://terryluwenbinbin.github.io/categories/%E6%8A%80%E6%9C%AF%E6%96%87%E7%AB%A0/</loc>
-    <lastmod>2019-03-12T12:13:19+08:00</lastmod>
+    <lastmod>2019-03-15T09:13:19+08:00</lastmod>
     <priority>0</priority>
   </url>
   
