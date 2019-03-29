@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>杂思 on Terry Lu&#39;s Site</title>
+    <link>https://terryluwenbinbin.github.io/tags/%E6%9D%82%E6%80%9D/</link>
+    <description>Recent content in 杂思 on Terry Lu&#39;s Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Fri, 29 Mar 2019 10:13:19 +0800</lastBuildDate>
+    
+	<atom:link href="https://terryluwenbinbin.github.io/tags/%E6%9D%82%E6%80%9D/feed.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>项目杂思</title>
+      <link>https://terryluwenbinbin.github.io/post/management/2019-03-29-project/</link>
+      <pubDate>Fri, 29 Mar 2019 10:13:19 +0800</pubDate>
+      
+      <guid>https://terryluwenbinbin.github.io/post/management/2019-03-29-project/</guid>
+      <description>概述 项目、项目管理、流程、标准化、文档、理论、实践、计划 思维导图 流程、项目流程、细分节点、关键节点 计划、项目计划 文档资料、公司、方案、产品、</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -26,7 +26,7 @@
       <pubDate>Thu, 14 Mar 2019 12:13:19 +0800</pubDate>
       
       <guid>https://terryluwenbinbin.github.io/post/sample/tech/2019-03-12-linux%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4/</guid>
-      <description>概述 Common cmd Unsort sudo tar -xzvf sudo tar -xzvf xxx.tar.gz nginx -V sudo find / -size +100M |xargs ls -lh</description>
+      <description>概述 Common cmd 专项 Docker LNMP Unsort sudo tar -xzvf sudo tar -xzvf xxx.tar.gz nginx -V 查询大文件 sudo find / -size +100M |xargs ls -lh sudo cat /dev/null &amp;gt;.bash_history sudo tail -f 100 /usr/local/php/var/log/php-fpm.log</description>
     </item>
     
     <item>

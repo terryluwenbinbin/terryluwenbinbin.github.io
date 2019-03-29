@@ -6,10 +6,19 @@
     <description>Recent content in Posts on Terry Lu&#39;s Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Fri, 15 Mar 2019 09:13:19 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 29 Mar 2019 10:13:19 +0800</lastBuildDate>
     
 	<atom:link href="https://terryluwenbinbin.github.io/post/feed.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>项目杂思</title>
+      <link>https://terryluwenbinbin.github.io/post/management/2019-03-29-project/</link>
+      <pubDate>Fri, 29 Mar 2019 10:13:19 +0800</pubDate>
+      
+      <guid>https://terryluwenbinbin.github.io/post/management/2019-03-29-project/</guid>
+      <description>概述 项目、项目管理、流程、标准化、文档、理论、实践、计划 思维导图 流程、项目流程、细分节点、关键节点 计划、项目计划 文档资料、公司、方案、产品、</description>
+    </item>
     
     <item>
       <title>Https</title>
@@ -26,7 +35,7 @@
       <pubDate>Thu, 14 Mar 2019 12:13:19 +0800</pubDate>
       
       <guid>https://terryluwenbinbin.github.io/post/sample/tech/2019-03-12-linux%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4/</guid>
-      <description>概述 Common cmd Unsort sudo tar -xzvf sudo tar -xzvf xxx.tar.gz nginx -V sudo find / -size +100M |xargs ls -lh</description>
+      <description>概述 Common cmd 专项 Docker LNMP Unsort sudo tar -xzvf sudo tar -xzvf xxx.tar.gz nginx -V 查询大文件 sudo find / -size +100M |xargs ls -lh sudo cat /dev/null &amp;gt;.bash_history sudo tail -f 100 /usr/local/php/var/log/php-fpm.log</description>
     </item>
     
     <item>
